@@ -1,0 +1,6 @@
+{
+  "name": "Chess Master Multiplayer",
+  "description": "Permainan catur real-time multiplayer online dengan Socket.IO dan mode lawan komputer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
